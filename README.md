@@ -105,7 +105,7 @@ Clipboard_P/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Practice-Projectes/Clipboard.Website.git
-   cd Clipboard_P
+   cd Clipboard
    ```
 
 2. **Open the project**
