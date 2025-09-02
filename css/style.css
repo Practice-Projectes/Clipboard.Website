@@ -84,6 +84,14 @@ a {
     text-decoration: none
 }
 
+.text-primary{
+    color: #26baa4
+}
+
+.text-center {
+    text-align: center
+}
+
 .w-50 {
     width: 50%
 }
